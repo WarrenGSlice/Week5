@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DiceRoller</string>
+    <string name="roll" />
+    <string name="tv_rollNumber">rollNumber</string>
+</resources>
